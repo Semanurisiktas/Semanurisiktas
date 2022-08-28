@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Semanur</h1>
 <h3 align="center">I am 2nd year Computer Programming student at Marmara University. I am interested in software and web development. My goal is to improve myself in the field of software and to reach a good level.</h3>
 
-![](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
-
 - 🔭 I’m currently working on [Frontend Web Development](https://app.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)
 
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, JS, C#, C**
