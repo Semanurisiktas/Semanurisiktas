@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Frontend Web Development](https://app.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)
 
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JS, C#, C**
+- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JS, C#, C**, SQL
 
 - 👨‍💻 All of my projects are available at [https://app.patika.dev/semanurisiktas](https://app.patika.dev/semanurisiktas)
 
